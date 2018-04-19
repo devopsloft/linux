@@ -4,11 +4,11 @@ Install Vagrant. Current version - 2.0.3
 
 Open Command Prompt (Win) or Term (OSX):
 
-Clone current repo:
-git clone git@github.com:DevOpsLoft/linux.git
+Clone current repo:<br>
+```git clone git@github.com:DevOpsLoft/linux.git```
 
-cd linux
-
+```cd linux
+<br>
 vagrant up
-
-vagrant ssh
+<br>
+vagrant ssh```
