@@ -7,7 +7,7 @@ Open Command Prompt (Win) or Term (OSX):
 Clone current repo:<br>
 ```git clone git@github.com:DevOpsLoft/linux.git```
 
-```cd linux
+```cd linux```
 <br>
 vagrant up
 <br>
