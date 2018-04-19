@@ -8,5 +8,7 @@ Clone current repo:
 git clone git@github.com:DevOpsLoft/linux.git
 
 cd linux
+
 vagrant up
+
 vagrant ssh
