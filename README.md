@@ -3,8 +3,7 @@
 * Install VirtualBox. Current version - 5.2.10.
 
 * Install Vagrant. Current version - 2.0.3.
-<br>
-Install vagrant plugin - vagrant-vbguest. Current version - 0.15.1:
+<br>Install vagrant plugin - vagrant-vbguest. Current version - 0.15.1:
 ```
 vagrant plugin install vagrant-vbguest
 ```
