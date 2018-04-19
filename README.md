@@ -9,6 +9,7 @@ Clone current repo:<br>
 git clone git@github.com:DevOpsLoft/linux.git
 ```
 
+Run the following commands:
 ```
 cd linux
 vagrant up
