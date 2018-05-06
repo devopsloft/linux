@@ -1,4 +1,8 @@
-# How to create a Linux VM on your laptop
+## Skip the following instructions in case you have a linux machine
+
+# Setting Up a Virtual Machine
+
+* Install Git from https://git-scm.com/downloads. Current version - 2.16.3
 
 * Install VirtualBox. Current version - 5.2.10.
 
@@ -20,7 +24,7 @@ vagrant up
 vagrant ssh
 ```
 
-# How to destroy the VM
+# Destroying the VM
 * Run the following commands to destroy the VM:
 ```
 exit
