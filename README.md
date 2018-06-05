@@ -2,12 +2,12 @@
 
 # Setting Up a Linux Virtual Machine
 
-* Install Git from https://git-scm.com/downloads. Current version - 2.16.3
+* Install Git from https://git-scm.com/downloads. Current version - 2.17.1
 
-* Install VirtualBox. Current version - 5.2.10.
+* Install VirtualBox. Current version - 5.2.12.
 
-* Install Vagrant. Current version - 2.0.3.
-<br>Install vagrant plugin - vagrant-vbguest. Current version - 0.15.1:
+* Install Vagrant. Current version - 2.1.1.
+<br>Install vagrant plugin - vagrant-vbguest. Current version - 0.15.2:
 ```
 vagrant plugin install vagrant-vbguest
 ```
