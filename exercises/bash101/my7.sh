@@ -7,8 +7,8 @@ b=devops
 [[ ($a == "DevOps") && ($b == "DevOps") ]]
 echo $?
 
-#[[ ($a == "DevOps") || ($b == "DevOps") ]]
-#echo $?
+[[ ($a == "DevOps") || ($b == "DevOps") ]]
+echo $?
 
-#[[ ! ($b == "DevOps") ]]
-#echo $?
+[[ ! ($b == "DevOps") ]]
+echo $?

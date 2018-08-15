@@ -9,8 +9,8 @@ echo $e
 ((e--))
 echo $e
 echo
-#((e+=5))
-e+=5
+((e+=5))
+#e+=5
 echo $e
 ((e*=3))
 echo $e

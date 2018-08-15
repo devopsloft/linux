@@ -1,6 +1,8 @@
 #!/bin/bash
 # this is my basic bash script
 
-echo DevOps
-echo
-echo DevOps Loft
+d=$(ls -la)
+echo $d
+
+d=pwd
+echo $d

@@ -6,8 +6,8 @@ b="DevOps"
 [[ -z $a ]]
 echo $?
 
-#[[ -z $b ]]
-#echo $?
+[[ -z $b ]]
+echo $?
 
 [[ -z $a && -n $b ]]
 echo $?
