@@ -2,12 +2,12 @@
 
 # Setting Up a Linux Virtual Machine
 
-* Install Git from https://git-scm.com/downloads. Current version - 2.17.1
+* Install Git from https://git-scm.com/downloads. Current version - 2.22.0
 
-* Install VirtualBox. Current version - 5.2.12.
+* Install VirtualBox. Current version - 6.0.8.
 
-* Install Vagrant. Current version - 2.1.1.
-<br>Install vagrant plugin - vagrant-vbguest. Current version - 0.15.2:
+* Install Vagrant. Current version - 2.2.5.
+<br>Install vagrant plugin - vagrant-vbguest. Current version - 0.18.0:
 ```
 vagrant plugin install vagrant-vbguest
 ```
@@ -15,7 +15,7 @@ vagrant plugin install vagrant-vbguest
 * Open Command Prompt (Win) or Term (OSX):
 <br>Clone current repo:<br>
 ```
-git clone git@github.com:DevOpsLoft/linux.git
+git clone https://github.com/devopsloft/linux.git
 ```
 * Run the following commands to create the VM:
 ```
